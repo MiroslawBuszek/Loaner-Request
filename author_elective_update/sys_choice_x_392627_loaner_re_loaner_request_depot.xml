@@ -1,153 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_choice action="INSERT_OR_UPDATE" field="depot" table="x_392627_loaner_re_loaner_request" version="3">
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>depot</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>New York</label>
-            <language>en</language>
-            <name>x_392627_loaner_re_loaner_request</name>
-            <sequence>0</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-29 22:21:08</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>6d0f2665db70001098a4a455ca961915</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-29 22:21:08</sys_updated_on>
-            <value>ny</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>depot</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>London</label>
-            <language>en</language>
-            <name>x_392627_loaner_re_loaner_request</name>
-            <sequence>1</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-29 22:21:08</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>e90f2665db70001098a4a455ca961917</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-29 22:21:08</sys_updated_on>
-            <value>london</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>depot</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Buenos Aires</label>
-            <language>en</language>
-            <name>x_392627_loaner_re_loaner_request</name>
-            <sequence>2</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-29 22:21:08</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>a50f2665db70001098a4a455ca961919</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-29 22:21:08</sys_updated_on>
-            <value>ba</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>depot</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Santa Clara</label>
-            <language>en</language>
-            <name>x_392627_loaner_re_loaner_request</name>
-            <sequence>3</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-29 22:21:08</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>610f2665db70001098a4a455ca96191b</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-29 22:21:08</sys_updated_on>
-            <value>sc</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>depot</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Singapore</label>
-            <language>en</language>
-            <name>x_392627_loaner_re_loaner_request</name>
-            <sequence>4</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-29 22:21:08</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>2d0f2665db70001098a4a455ca96191c</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-29 22:21:08</sys_updated_on>
-            <value>singapore</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>depot</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Sydney</label>
-            <language>en</language>
-            <name>x_392627_loaner_re_loaner_request</name>
-            <sequence>5</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-29 22:21:08</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>e50f2665db70001098a4a455ca96191e</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-29 22:21:08</sys_updated_on>
-            <value>sydney</value>
-        </sys_choice>
-        <sys_choice action="INSERT_OR_UPDATE">
-            <dependent_value/>
-            <element>depot</element>
-            <hint/>
-            <inactive>false</inactive>
-            <label>Other</label>
-            <language>en</language>
-            <name>x_392627_loaner_re_loaner_request</name>
-            <sequence>6</sequence>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-29 22:21:08</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>a10f2665db70001098a4a455ca961920</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-29 22:21:08</sys_updated_on>
-            <value>other</value>
-        </sys_choice>
-        <sys_choice_set action="INSERT_OR_UPDATE">
+    <sys_choice action="DELETE" field="depot" table="x_392627_loaner_re_loaner_request" version="3">
+        <sys_choice_set action="DELETE">
             <element>depot</element>
             <name>x_392627_loaner_re_loaner_request</name>
-            <sys_class_name>sys_choice_set</sys_class_name>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-29 22:21:08</sys_created_on>
-            <sys_id>a50f2665db70001098a4a455ca961916</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>depot</sys_name>
-            <sys_package display_value="Loaner Request" source="x_392627_loaner_re">d2c062e5db30001098a4a455ca96198d</sys_package>
+            <sys_class_name/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id/>
+            <sys_mod_count/>
+            <sys_name/>
+            <sys_package/>
             <sys_policy/>
-            <sys_scope display_value="Loaner Request">d2c062e5db30001098a4a455ca96198d</sys_scope>
-            <sys_update_name>sys_choice_x_392627_loaner_re_loaner_request_depot</sys_update_name>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-29 22:21:08</sys_updated_on>
+            <sys_scope/>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2019-10-31 00:29:19</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application/>
+        <file_path/>
+        <instance_id>88e1b528dbffd3443353f22ebf9619d2</instance_id>
+        <instance_name>dev68946</instance_name>
+        <name>sys_choice_x_392627_loaner_re_loaner_request_depot</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="DELETE" field="depot" table="x_392627_loaner_re_loaner_request" version="3"><sys_choice_set action="DELETE"><element>depot</element><name>x_392627_loaner_re_loaner_request</name><sys_class_name/><sys_created_by/><sys_created_on/><sys_id/><sys_mod_count/><sys_name/><sys_package/><sys_policy/><sys_scope/><sys_update_name/><sys_updated_by/><sys_updated_on>2019-10-31 00:29:19</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-1616740978</payload_hash>
+        <record_name>x_392627_loaner_re_loaner_request.depot</record_name>
+        <reverted_from/>
+        <source>d6c062e5db30001098a4a455ca96198f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-31 00:29:19</sys_created_on>
+        <sys_id>51f55002dbb0001098a4a455ca961959</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16e1f377adb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-31 00:29:19</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>d9f55002c9b0001017f09db989125e58</update_guid>
+        <update_guid_history>d9f55002c9b0001017f09db989125e58:-1616740978,91f55002a7b000108255924677ed3155:-171573926,11f55002f9b000100907f342578f9d52:1979496379,9df550021eb00010fffe14380916504e:1800301615,1df55002f3b00010aa6e9d19c06d594b:1047053980,99f5500208b0001003448bdad5562448:-1969611163,19f5500210b00010e0cb01576cd62f45:-1961764824,690f2665a5700010757872d84db77f22:781096136</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-31 00:29:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>dff5d002dbb0001098a4a455ca96190f</sys_id>
+        <sys_metadata>dff5d002dbb0001098a4a455ca96190f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>depot</sys_name>
+        <sys_package display_value="Loaner Request" source="x_392627_loaner_re">d2c062e5db30001098a4a455ca96198d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">d2c062e5db30001098a4a455ca96198d</sys_scope>
+        <sys_scope_delete display_value="">6f0f9a768a144ef98fe79dfdd1e79c31</sys_scope_delete>
+        <sys_update_name>sys_choice_x_392627_loaner_re_loaner_request_depot</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_392627_loaner_re_loaner_request_depot">51f55002dbb0001098a4a455ca961959</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-31 00:29:32</sys_updated_on>
+    </sys_metadata_delete>
 </record_update>
