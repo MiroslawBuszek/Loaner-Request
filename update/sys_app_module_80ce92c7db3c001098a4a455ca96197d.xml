@@ -8,33 +8,33 @@
         <hint/>
         <homepage/>
         <image/>
-        <link_type>LIST</link_type>
+        <link_type>DIRECT</link_type>
         <map_page/>
-        <mobile_title>Loaner Tasks</mobile_title>
+        <mobile_title>Properties</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_392627_loaner_re_loaner_task</name>
-        <order/>
+        <name/>
+        <order>800</order>
         <override_menu_roles>false</override_menu_roles>
-        <query/>
+        <query>system_properties_ui.do?sysparm_title=Loaner Request Properties&amp;sysparm_category=Loaner Request</query>
         <report/>
-        <roles>x_392627_loaner_re.loaner_task_user</roles>
+        <roles>x_392627_loaner_re.admin</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-11-02 23:10:05</sys_created_on>
+        <sys_created_on>2019-11-03 13:04:22</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>759023bedb70001098a4a455ca96198f</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Loaner Tasks</sys_name>
+        <sys_id>80ce92c7db3c001098a4a455ca96197d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Properties</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_392627_loaner_re">d2c062e5db30001098a4a455ca96198d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">d2c062e5db30001098a4a455ca96198d</sys_scope>
-        <sys_update_name>sys_app_module_759023bedb70001098a4a455ca96198f</sys_update_name>
+        <sys_update_name>sys_app_module_80ce92c7db3c001098a4a455ca96197d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-11-03 13:20:03</sys_updated_on>
+        <sys_updated_on>2019-11-03 13:04:22</sys_updated_on>
         <timeline_page/>
-        <title>Loaner Tasks</title>
+        <title>Properties</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
